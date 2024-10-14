@@ -5,7 +5,7 @@ import altair as alt
 import plotly.express as px
 import plotly.graph_objects as go
 import numpy as np
-import scipy.stats as stats
+#import scipy.stats as stats
 from datetime import datetime
 
 # Configurar o Streamlit

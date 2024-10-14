@@ -4,7 +4,5 @@ streamlit_authenticator
 pandas
 plotly
 altair
-plotly.graph_objects
 matplotlib
 openpyxl
-datetime

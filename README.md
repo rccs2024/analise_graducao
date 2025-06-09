@@ -22,7 +22,7 @@ Este projeto é um dashboard interativo desenvolvido em **Python + Streamlit** p
 - `requirements.txt` – Dependências do projeto
 
 ## ⚠️ Observações
-A pasta `base/` contém dados sensíveis e foi deve excluída do versionamento 
+A pasta `base/` contém dados sensíveis e foi deve excluída 
 
 ---
 

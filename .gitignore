@@ -1,0 +1,10 @@
+# Arquivos e pastas a ignorar
+base/
+*.csv
+*.xlsx
+*.pkl
+*.h5
+*.joblib
+__pycache__/
+*.pyc
+.env
